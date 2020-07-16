@@ -1,45 +1,24 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Eduardo Carvalho
+### Front End Developer
 
-[![Linkedin: eduhdev](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/eduhdev/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://github.com/eduhdev)
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
+[![Linkedin Badge](https://img.shields.io/badge/-eduhdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduhdev/)](https://www.linkedin.com/in/eduhdev//) [![Gmail Badge](https://img.shields.io/badge/-eduardocarvalho970@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardocarvalho970@gmail.com)](mailto:eduardocarvalho970@gmail.com)
 ---
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
 
-```
-<!--END_SECTION:waka-->
+## Hello World! 
+
+* My name is Eduardo Carvalho from Brazil. I've been working as Developer since 2017, currently, I'm a Front-End Developer at X-Brain.
+* I love Web, because it's amazing and the possibility to learn every day, makes me happy in the choice I've made. 
+* I'm in love with football (soccer), whether watching or playing. I also like beer and music, especially both together. In my free time I like to watch movies and series, eventually I like to read books and philosophizing about life.
+
+## My Skills ⚡
+* HTML
+* Responsive Design (Mobile First)
+* CSS (Sass, Bootstrap, styled-components, gridLayout, flexLayout)
+* Javascript (Design Patterns, Tests, ES6/7)
+* ReactJS (Gatsby, Next) / Redux / React Native
+* NodeJS (Express)
+* Git
+* MySQL - MongoDB
+* Scrum and Kanban
+* TDD e Continuous Integration
+---
