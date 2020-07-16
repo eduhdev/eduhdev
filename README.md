@@ -8,7 +8,7 @@
 
 * My name is Eduardo Carvalho from Brazil. I've been working as Developer since 2017. Currently I'm a Front-End Developer at X-Brain.
 * I love Web, because it's amazing and the possibility to learn every day, makes me happy in the choice I've made. 
-* I'm in love with football (soccer), whether watching or playing. I also like beer and music, especially both together. In my free time I like to watch movies and series, eventually I like to read books and philosophizing about life.
+* I love football (soccer), whether watching or playing. I also like beer and music, especially both together. In my free time I like to watch movies and series, eventually I like to read books and philosophizing about life.
 
 ## My Skills ⚡
 * HTML
