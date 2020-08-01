@@ -20,5 +20,5 @@
 * Git
 * MySQL - MongoDB
 * Scrum and Kanban
-* TDD e Continuous Integration
+* TDD and Continuous Integration
 ---
