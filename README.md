@@ -4,7 +4,7 @@
 
 I'm a developer from Brazil with a passion for web development. I've been working in the field since 2017, and I absolutely love it because of its endless possibilities and the opportunity to learn something new every day.
 
-# 🔧 Skills
+## 🔧 Skills
 Here are some of my technical skills:
 
 - HTML
@@ -18,7 +18,7 @@ Here are some of my technical skills:
 - Scrum and Kanban
 - TDD and Continuous Integration
 
-# 🎉 Hobbies
+## 🎉 Hobbies
 When I'm not coding, I like to indulge in my other passions, such as:
 
 - Football (soccer)
@@ -27,5 +27,5 @@ When I'm not coding, I like to indulge in my other passions, such as:
 - Reading books
 - Philosophizing about life's bigger questions
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 If you're interested in working with me or just want to connect, feel free to reach out to me. I'm always looking to learn and grow in my field and beyond.
