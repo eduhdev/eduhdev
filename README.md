@@ -5,16 +5,16 @@ I'm a developer from Brazil with a passion for web development. I've been workin
 ## 🔧 Skills
 Here are some of my technical skills:
 
-- HTML
-- Responsive Design (Mobile First)
-- CSS (Sass, Bootstrap, styled-components, gridLayout, flexLayout)
-- JavaScript (Design Patterns, Tests, ES6/7)
-- ReactJS (Gatsby, Next) / Redux / React Native
-- NodeJS (Express)
-- Git
-- MySQL - MongoDB
-- Scrum and Kanban
-- TDD and Continuous Integration
+- Strong foundation in HTML, CSS and JavaScript
+- In-depth knowledge of React-specific concepts, including components, JSX, state and props, virtual DOM and lifecycle methods
+- Familiarity with Redux and the Context API
+- Experience with flexbox, grid layout, styled components, Sass, CSS modules and popular CSS frameworks such as Bootstrap, Material UI and Tailwind
+- Experience with WordPress, Strapi and Shopify
+- Proficient in SQL and familiar with MySQL, Postgres and MongoDB
+- Experience with unit tests and integration tests using Jest, React Testing Library and Cypress
+- Ability to integrate with RESTful and GraphQL APIs, using tools such as Axios, Fetch API and Apollo Client
+- Strong problem-solving and debugging skills to tackle complex issues and find effective solutions
+
 
 ## 🎉 Hobbies
 When I'm not coding, I like to indulge in my other passions, such as:
